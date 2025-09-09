@@ -1,4 +1,3 @@
-# Desktop-Goose
 # DeskTop Goose para Digispark ATTINY85
 
 # Descrição
