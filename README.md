@@ -5,6 +5,9 @@ Codigo para por no Arduino e enviar para o (Digispark ATTINY85)
 
 # Tecnologias
 Arduino IDE (https://www.arduino.cc/en/software/)
+Digispark ATtiny85
+
+
 
 
 
